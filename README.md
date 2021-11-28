@@ -1,0 +1,2 @@
+# SatyamPractice
+Practice purpose
