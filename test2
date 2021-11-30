@@ -1,4 +1,8 @@
 hai test2
 enter details of test2
 empty present added in future
+<<<<<<< HEAD
 hello test2
+=======
+this is satya
+>>>>>>> main
