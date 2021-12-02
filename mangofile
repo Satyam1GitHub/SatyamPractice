@@ -1,8 +1,12 @@
 Hai mango file
 <<<<<<< Updated upstream
 how are you mango file
+<<<<<<< HEAD
 =======
 ...........................
 mangofile for stash purpose
 ...........................
 >>>>>>> Stashed changes
+=======
+i am fine mango
+>>>>>>> 93010dec064aa676d7c4ff6271ae0def8790f33f
